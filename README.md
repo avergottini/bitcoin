@@ -5,7 +5,7 @@ Bitcoin Core integration/staging tree
 
 https://bitcoincore.org
 
-![Ronnie Swoleman](https://github.com/avergottini/bitcoin/blob/swole/doc/coleman_large.jpg?raw=true)
+![Ronnie Swoleman](https://github.com/JNKHunter/bitcoin/blob/swole/doc/coleman_large.jpg?raw=true)
 
 What is Swolecoin?
 ----------------
