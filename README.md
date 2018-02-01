@@ -5,7 +5,9 @@ Bitcoin Core integration/staging tree
 
 https://bitcoincore.org
 
-What is Bitcoin?
+![Ronnie Swoleman](https://github.com/JNKHunter/bitcoin/blob/swole/doc/coleman_large.jpg?raw=true)
+
+What is Swolecoin?
 ----------------
 
 Bitcoin is an experimental digital currency that enables instant payments to
